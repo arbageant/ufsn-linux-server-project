@@ -38,7 +38,7 @@ psycopg2
 ## The Hosted Application
 The hosted application is a simple Python item catalog app, which was created
 for an earler udacity project. You can find the public repository for this
-app on my Github, here:\
+app on my Github, here:
 
 https://github.com/arbageant/item-catalog-project
 
@@ -49,3 +49,7 @@ which prevents users from logging in and editing the item catalog. Right now,
 it exists essentially as just a page to browse. For the time being, I will
 submit as-is and see if I can find a fix in the next few days. If you have
 any suggestions on this subject, I would be glad to hear them.
+
+Thanks to the Udacity course instructors, and my fellow students. In particular,
+thanky you to my fellow Git Hub usesr yiyupan, who left some very helpful notes
+that helped me debug a few difficult parts of the server setup.
